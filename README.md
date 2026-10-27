@@ -20,16 +20,16 @@ outras áreas de produtos.
 
 >Itens colecionaveis podem ser um otimo investimento pois dependendo podem multiplicar seu valor origina.
 
-<img src="Captura de tela 2026-10-02 193839.png">
+<img src="imgs_rd/Captura de tela 2026-10-02 193839.png">
 
 • Meu projeto tem uma ideia inovadora pois quase não há sites de venda de itens de colecionador, ou para entusiastas em áreas específicas 
 
 • Com front end desenvolvido para filtrar as cartas e produtos apartir de um filtro feito em Java script conectado no html para que os filtros se apliquem a os produtos fazendo o css escondelos 
 
-<img src="Captura de tela 2026-10-02 194122.png" align="left" width="28%" height="500px">
-<img src="Captura de tela 2026-10-02 202738.png" align="left" width="48%">
+<img src="imgs_rd/Captura de tela 2026-10-02 194122.png" align="left" width="28%" height="500px">
+<img src="imgs_rd/Captura de tela 2026-10-02 202738.png" align="left" width="48%">
 
 <div style="clear: both;"></div>
 
 
-<img src="Captura de tela 2026-10-02 194152.png" alaing="left" width="45%">
+<img src="imgs_rd/Captura de tela 2026-10-02 194152.png" alaing="left" width="45%">
